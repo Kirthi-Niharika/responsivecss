@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    height:200px;
+    align-content: flex-start;
+    border:solid 1px red;
+}
+.item{
+    border: solid 1px #000 ;
+    padding: 20px;
+}
+.item-1{
+    background: antiquewhite;
+
+}
+.item-2{
+    background:aqua
+}
+.item-3{
+    background:aquamarine;
+}
+.item-4{
+    background: blue;
+}
+.item-5{
+    background:azure
+}
+.item-6{
+    background: blueviolet;
+}
